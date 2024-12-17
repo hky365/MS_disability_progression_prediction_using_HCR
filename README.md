@@ -6,8 +6,9 @@ This repository contains scripts and pipelines for predicting disability progres
 ### Title:
 Leveraging Hand-Crafted Radiomics on Multicenter FLAIR MRI for Predicting Disability Progression in People with Multiple Sclerosis
 
-# Authors: Hamza Khan (1) (2) (3), Henry C Woodruff (3) (4) and Diana L. Giraldo (5) (6), Lorin Werthen-Brabants (7), Shruti Atul Mali (3)(4), Sina Amirrajab (3), Edward De Brouwer (8), Veronica Popescu (1) (9), Bart Van Wijmeersch (1) (9), Oliver Gerlach (10) (11), Jan Sijbers (5) (6), Liesbet M. Peeters (1) (2) (9) and Philippe Lambin (3) (4).
-# Affiliations: 
+### Authors: 
+Hamza Khan (1) (2) (3), Henry C Woodruff (3) (4) and Diana L. Giraldo (5) (6), Lorin Werthen-Brabants (7), Shruti Atul Mali (3)(4), Sina Amirrajab (3), Edward De Brouwer (8), Veronica Popescu (1) (9), Bart Van Wijmeersch (1) (9), Oliver Gerlach (10) (11), Jan Sijbers (5) (6), Liesbet M. Peeters (1) (2) (9) and Philippe Lambin (3) (4).
+### Affiliations: 
 (1) University MS Center, Biomedical Research Institute (BIOMED), Hasselt University, Agoralaan Building C, 3590 Diepenbeek, Belgium.
 (2) Data Science Institute (DSI), Hasselt University, Agoralaan Building D, 3590, Diepenbeek, Belgium.
 (3) The D-Lab, Department of Precision Medicine, GROW - Research Institute for Oncology and Reproduction, Maastricht University, Maastricht, Netherlands.
