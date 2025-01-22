@@ -36,6 +36,7 @@ This repository includes the following steps:
 | `2 - Intensity_Normalisation.py`    | Normalizes intensity across MR images               |
 | `3 - Masks Extraction (No WML).py`  | Extracts masks for segmentation (excluding WML)     |
 | `4 - Radiomics_Features_Extraction.py` | Extracts radiomics features using PyRadiomics       |
+| `4.1 - Long_ComBaT_Harmonisation.R`      | Harmonizes the dataset, using Long Combat                |
 | `5 - Splitting_Data_Frames.py`      | Splits data into appropriate subsets                |
 | `6 - Feature_Selection.py`          | Reduces features using correlation and RFE          |
 | `7 - Model_training.py`             | Trains ML models (Elastic Net, BRFC, LGBM)          |
