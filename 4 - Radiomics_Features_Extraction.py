@@ -129,3 +129,5 @@ problematic_df.to_csv(problematic_csv_file, index=False)
 print('Problematic IDs and Sessions saved to CSV.')
 
 ## Repeat the same for other ROI - such as NAWM masks
+
+## If you want to harmonise, then proceed to Step 5 or ignore the step altogether
