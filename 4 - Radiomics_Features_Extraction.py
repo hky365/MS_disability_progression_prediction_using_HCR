@@ -130,4 +130,4 @@ print('Problematic IDs and Sessions saved to CSV.')
 
 ## Repeat the same for other ROI - such as NAWM masks
 
-## If you want to harmonise, then proceed to Step 5 or ignore the step altogether
+## If you want to harmonise, then proceed to Step 4.1 or ignore the step altogether and proceed to 5
