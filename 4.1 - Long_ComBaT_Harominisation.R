@@ -1,3 +1,6 @@
+# Make sure to install R because this is an R script
+# Author: Diana Giraldo UAntwerpen, Hamza Khan, UHasselt/UMaastricht
+# This script Harmonises the data using LongComBat. The inspiration is taken from https://github.com/jcbeer/longCombat
 # Load packages
 library(dplyr)
 library(lubridate)
