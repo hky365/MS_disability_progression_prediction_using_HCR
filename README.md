@@ -44,6 +44,9 @@ This repository includes the following steps:
 
 ---
 
-For steps preceding the Skull_Stripping_mgz_nii.py, kindly refer to https://github.com/diagiraldo/MS_MRI_processing/tree/main
+For steps preceding the Skull_Stripping_mgz_nii.py, kindly refer to https://github.com/diagiraldo/MS_MRI_pipelines
 
 For correspondence, kindly reach out to Hamza Khan (https://github.com/hky365) & Diana Giraldo (https://github.com/diagiraldo)
+
+## Funding
+This project received funding from the Flemish Government under the [“Flanders AI Research Program"](https://www.flandersairesearch.be/en).
